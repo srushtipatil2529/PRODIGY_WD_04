@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Srushti Patil | Portfolio</title>
+  <link rel="stylesheet" href="style4.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Srushti Jitendra Patil</h1>
+      <p>Data Science Enthusiast | Python | SQL | ML | Tableau</p>
+      <img src="PPD.jpg" alt="Srushti Patil Profile Photo" class="profile-img" />
+
+      <a href="#contact" class="btn">Get in Touch</a>
+    </div>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I'm a recent graduate with a strong foundation in data analysis, statistics, and visualization tools.
+      Currently interning at Prodigy InfoTech, I love working with Python, SQL, Tableau, and building predictive models.
+    </p>
+
+    <h3>Education</h3>
+    <p><strong>Bachelor of Data Science</strong><br>Mulund College of Commerce (2022–2025)</p>
+
+    <h3>Skills</h3>
+    <ul>
+      <li>Python, R, SQL, ETL</li>
+      <li>Machine Learning, Statistics</li>
+      <li>Matplotlib, Seaborn, Tableau, Power BI</li>
+      <li>Excel (Basic & Advanced), GIT, Anaconda</li>
+    </ul>
+
+    <h3>Certifications</h3>
+    <ul>
+      <li>Azure AI Fundamentals – Microsoft</li>
+      <li>Security Compliance – Microsoft</li>
+      <li>DevOps Fundamentals – IBM</li>
+      <li>RPA – Mulund College of Commerce</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>US Sales Data Analysis:</strong> Used Python & Power BI to identify trends and improve profit by 15%.</li>
+      <li><strong>AI in Travel & Tourism:</strong> Research paper exploring AI’s role in smart travel systems.</li>
+      <li><strong>Environmental Gases Impact:</strong> Studied pollution's long-term impact and solutions.</li>
+      <li><strong>AI & Employment Survey:</strong> Surveyed 150 people and analyzed the automation impact on jobs.</li>
+      <li><strong>Climate Change on Agriculture:</strong> ML model predicting future weather effects using Streamlit.</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:srushti2512patil@gmail.com">srushti2512patil@gmail.com</a></p>
+    <p>GitHub: <a href="https://github.com/srushtipatil2529" target="_blank">srushtipatil2529</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/srushti-patil-6b5336307/" target="_blank">Srushti Patil</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Srushti Patil | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
